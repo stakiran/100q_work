@@ -1,5 +1,5 @@
 category_format=- (@)
-question_format=- @@. @
+question_format=- (@@) @
 numbering_format=d
 category_mark=##
 ignore_blank=yes
